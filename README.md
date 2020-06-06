@@ -1,2 +1,2 @@
-# Titanic-Survival-Exploration
+# Titanic-Survival-Exploration | Kaggle Competition
 
