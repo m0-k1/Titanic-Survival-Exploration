@@ -1,4 +1,4 @@
-### Kaggle Competition | Titanic Machine Learning from Disaster
+## Kaggle Competition | Titanic Machine Learning from Disaster
 
 >The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew.  This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
@@ -21,11 +21,11 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 
 #### Data Analysis
 *    Supervised Machine learning Techniques:
-    +   Logit Regression Model 
-    +   Plotting results
-    +   Support Vector Machine (SVM) using 3 kernels
-    +   Basic Random Forest
-    +   Plotting results
+        +   Logistic Regression Model 
+        +   Plotting results
+        +   Support Vector Machine (SVM) using 3 kernels
+        +   Basic Random Forest
+        +   Plotting results
 
 #### Valuation of the Analysis
 *   K-folds cross validation to valuate results locally
