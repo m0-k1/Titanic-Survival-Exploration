@@ -8,7 +8,6 @@
 
 >This Kaggle Getting Started Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning."
 
-From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 ### Goal for this Notebook:
 Show a simple example of an analysis of the Titanic disaster in Python. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
