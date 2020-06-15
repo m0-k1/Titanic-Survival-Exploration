@@ -28,4 +28,3 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 
 #### Valuation of the Analysis
 *   K-folds cross validation to valuate results locally
-*   Output the results from the IPython Notebook to Kaggle
