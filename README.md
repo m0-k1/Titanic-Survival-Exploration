@@ -16,15 +16,12 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 #### Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
-*   Exploring Data through Visualizations with Matplotlib
+*   Exploring Data through Visualizations with Matplotlib and seaborn
 
 #### Data Analysis
 *    Supervised Machine learning Techniques:
-        +   Logistic Regression Model 
-        +   Plotting results
-        +   Support Vector Machine (SVM) using 3 kernels
-        +   Basic Random Forest
-        +   Plotting results
-
-#### Valuation of the Analysis
-*   K-folds cross validation to valuate results locally
+    +   K Nearest Neighbour 
+    +   Gaussian Naive Bayes
+    +   Support Vector Machine (SVM)
+    +   Decision Tree Classifier
+    +   Plotting results
