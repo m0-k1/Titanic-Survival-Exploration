@@ -19,9 +19,9 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 *   Exploring Data through Visualizations with Matplotlib and seaborn
 
 #### Data Analysis
-Supervised Machine learning Techniques:
-+   K Nearest Neighbour
-+   Gaussian Naive Bayes
-+   Support Vector Machine (SVM)
-+   Decision Tree Classifier
-+   Plotting results
+* Supervised Machine learning Techniques:
+  +   K Nearest Neighbour
+  +   Gaussian Naive Bayes
+  +   Support Vector Machine (SVM)
+  +   Decision Tree Classifier
+  +   Plotting results
