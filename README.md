@@ -20,7 +20,7 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 
 #### Data Analysis
 *    Supervised Machine learning Techniques:
-    o   K Nearest Neighbour 
+    +   K Nearest Neighbour 
     +   Gaussian Naive Bayes
     +   Support Vector Machine (SVM)
     +   Decision Tree Classifier
