@@ -16,7 +16,7 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 #### Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
-*   Exploring Data through Visualizations with Matplotlib and seaborn
+*   Exploring Data through Visualizations with Matplotlib and Seaborn
 
 #### Data Analysis
 * Supervised Machine learning Techniques:
