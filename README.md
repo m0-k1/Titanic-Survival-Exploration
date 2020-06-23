@@ -24,4 +24,4 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
   +   Gaussian Naive Bayes
   +   Support Vector Machine (SVM)
   +   Decision Tree Classifier
-  +   Plotting results
+* Plotting results
