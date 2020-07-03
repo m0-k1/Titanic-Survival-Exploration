@@ -1,7 +1,9 @@
 ## Kaggle Competition | Titanic Machine Learning from Disaster
 
+<img src="https://github.com/favicon.ico" width="48">
 
-![](image/titanic2.jpeg)
+<img src="https://github.com/m0-k1/Titanic-Survival-Exploration/blob/master/image/titanic.jpg" width="250" > <img src="https://github.com/m0-k1/Titanic-Survival-Exploration/blob/master/image/titanic2.jpeg" width="250"> <img src="https://github.com/m0-k1/Titanic-Survival-Exploration/blob/master/image/titanic3.jpg" width="250">
+
 
 >The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew.  This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
@@ -28,5 +30,3 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
   +   Support Vector Machine (SVM)
   +   Decision Tree Classifier
 * Plotting results.
-
-![](image/titanic3.jpg)
