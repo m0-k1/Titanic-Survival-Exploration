@@ -28,3 +28,5 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
   +   Support Vector Machine (SVM)
   +   Decision Tree Classifier
 * Plotting results.
+
+![](image/titanic3.jpg)
